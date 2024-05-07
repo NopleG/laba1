@@ -1,0 +1,14 @@
+D:\Projects\КП\КП\bin\Debug\КП.exe.config
+D:\Projects\КП\КП\bin\Debug\КП.exe
+D:\Projects\КП\КП\bin\Debug\КП.pdb
+D:\Projects\КП\КП\obj\Debug\КП.csproj.AssemblyReference.cache
+D:\Projects\КП\КП\obj\Debug\КП.Form1.resources
+D:\Projects\КП\КП\obj\Debug\КП.Properties.Resources.resources
+D:\Projects\КП\КП\obj\Debug\КП.csproj.GenerateResource.cache
+D:\Projects\КП\КП\obj\Debug\КП.csproj.CoreCompileInputs.cache
+D:\Projects\КП\КП\obj\Debug\КП.exe
+D:\Projects\КП\КП\obj\Debug\КП.pdb
+D:\Projects\КП\КП\obj\Debug\КП.Form2.resources
+D:\Projects\КП\КП\obj\Debug\КП.Form3.resources
+D:\Projects\КП\КП\obj\Debug\КП.Form4.resources
+D:\Projects\КП\КП\obj\Debug\КП.Form5.resources
